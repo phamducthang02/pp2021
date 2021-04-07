@@ -11,5 +11,4 @@ Student Info
 
 * Student Name: Pham Duc Thang  
 * Student ID: BI10-159
-* 
 
